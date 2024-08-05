@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "443645614184",
+    "project_id": "login-e63a5",
+    "storage_bucket": "login-e63a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443645614184:android:96a3b22024598d4d5803dd",
+        "android_client_info": {
+          "package_name": "com.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443645614184-0djpu0dibdmbs6g1u8vog3d9hoek1gkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZcv7_DJ0MzGC_FDJAGW9oMVrcytEOMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443645614184-0djpu0dibdmbs6g1u8vog3d9hoek1gkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443645614184-3nq6gc164f1ga5esve39j185dhm1ffgt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.GoogleLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
